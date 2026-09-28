@@ -1,0 +1,45 @@
+
+HISTORY OF JAVA
+
+Java is a high-level, object-oriented programming language developed at Sun Microsystems. It was designed to be portable, secure, and capable of running on different computer systems through the Java Virtual Machine (JVM).
+
+1. The Beginning of Java
+
+The development of Java began in **1991** as part of a project at Sun Microsystems known as the **Green Project**. The project was aimed at developing software for consumer electronic devices. James Gosling led the development, with contributions from other engineers including Patrick Naughton and Mike Sheridan.
+
+The programming language was originally called **Oak**. It was designed mainly for embedded consumer-electronic applications.
+
+2. From Oak to Java
+
+The name Oak was later changed because the name was already associated with another product. The language was renamed **Java** and was adapted toward Internet-based applications.
+
+Java became particularly suitable for the growing World Wide Web because programs could be compiled into bytecode and executed through the Java Virtual Machine, allowing the same program to run on different platforms.
+
+3. Java Was Introduced to the Public
+
+In 1995, Sun Microsystems officially introduced Java to the public. Java 1.0 subsequently became available, and the language began gaining popularity during the rapid growth of the Internet.
+
+One of Java's major ideas was often summarized as **"Write Once, Run Anywhere."** A Java program could be compiled into bytecode and executed on systems that provided a compatible Java runtime environment.
+
+ 4. Growth of Java
+
+Java continued to develop through successive releases:
+
+- 1997: Java 1.1 was released.
+- 1998:Java 1.2 was released and the Java platform continued expanding.
+- 2000:Java 1.3 was released.
+- 2002:Java 1.4 was released.
+- 2004: Java 5.0 introduced major language features such as generics, annotations, enhanced for-loops, autoboxing and enumerations.
+- 2006:Sun Microsystems released Java as open-source software under the GNU General Public License.
+- 2014:Java 8 introduced major features including lambda expressions, method references and functional interfaces.
+- 2017:Java 9 introduced the Java Platform Module System, and Oracle moved Java toward a six-month release cycle.
+
+5. Java Today
+
+Java has developed from a language originally intended for consumer devices into a general-purpose programming language used for many types of software, including enterprise applications, web applications, desktop applications, embedded systems and server-side software.
+
+The **Java Virtual Machine (JVM)** remains one of the most important parts of the Java platform because it provides the environment in which Java bytecode runs and helps make Java independent of particular hardware and operating systems.
+
+Conclusion
+
+Java began as the Oak programming language during Sun Microsystems' Green Project in 1991. It was later renamed Java and officially introduced in 1995. Since then, Java has undergone many changes and additions while maintaining its major goals of portability, security and object-oriented programming. It remains an important language for software development.
