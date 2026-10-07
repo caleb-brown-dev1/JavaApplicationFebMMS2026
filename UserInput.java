@@ -4,7 +4,7 @@ public class UserInput{
   public static void main(String[] args){
     Scanner scan = new Scanner(System.in);
     
-	System.out.println("=================Input from User ================");
+	System.out.println(" =================Input from User ================ ");
     System.out.print("Enter your name: ");
     String name = scan.nextLine();
     
@@ -26,5 +26,8 @@ public class UserInput{
     System.out.printf("You are a %s and you are living in %s,",gender,address);
     System.out.printf(" You are %d years old and it is nice meeting you%n",age);
     System.out.printf("Wow you said %b. It means that you are a professional Java Programmer%n",answer);
+	System.out.println("====================================================\n");
+	
+	System.out.println("character at index 3 is" + gender);
   }
 }
